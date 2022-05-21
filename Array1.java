@@ -19,7 +19,7 @@ class Array1
             System.out.println(arr[iCnt]);
         }
 
-        System.out.println("data by while looop");
+        System.out.println("data by while looop");//new comment
           iCnt=0;
         while(iCnt<arr.length)
         {
